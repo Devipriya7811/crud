@@ -1,0 +1,45 @@
+.table thead{
+    background-color: #ccc;
+    color: #222;
+}
+.table-wrapper{
+    padding: 2rem;
+}
+.table{
+    row-gap: 3rem;
+    padding-top: 3rem;
+    box-shadow: 0px 10px 10px #ccc;
+    border-radius: 10px;
+    width: 100%;
+}
+h2{
+    margin-left: -7rem;
+}
+.inp{
+    margin-left: -7rem;
+    margin-top: 2rem;
+    padding: 0.8rem;
+    border-color: #535151;
+    font-size: 14px;
+    font-weight: 550;
+}
+/* .btn{
+    padding: 0.5rem;
+    margin-left: 4rem;
+    background-color: #4d4c4c;
+    color: #ffffff;
+    border: none;
+    border-radius: 3px;
+} */
+.green{
+    color: #008000;
+    cursor: pointer;
+}
+.red{
+    color: #ff0000;
+    cursor: pointer;
+}
+.table th,
+.table td{
+    padding: 0.8rem;
+}
